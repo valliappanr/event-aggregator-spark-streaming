@@ -32,4 +32,4 @@ Kibana dashboard.
 
 
 
-![alt tag](https://github.com/valliappanr/spark-streaming/blob/master/failed-events.png)
+![alt tag](https://github.com/valliappanr/event-aggregator-spark-streaming/raw/master/failed-events.png)
