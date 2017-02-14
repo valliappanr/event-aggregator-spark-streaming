@@ -7,7 +7,7 @@ it in Kibana
 * This can be used to highlight any events across the system failed to satisfy the agreed SLAs.
  
 
-![alt tag](https://github.com/valliappanr/spark-streaming/blob/master/find-fraudulent-ids.png)
+![alt tag](https://github.com/valliappanr/event-aggregator-spark-streaming/raw/master/failed-events-architecture.png)
 
 # Pre-requisite
 * Kafka as message broker
