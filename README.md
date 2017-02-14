@@ -29,3 +29,7 @@ then that order is marked as failed by storing the event with order number to el
 Kibana dashboard.
 * The app could quiet easily support new events by just defining the events and start the application with that
   events, and the aggregation works straight away as long as the events are being pushed onto the kafka topics.
+
+
+
+![alt tag](https://github.com/valliappanr/spark-streaming/blob/master/failed-events.png)
